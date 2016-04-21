@@ -13,8 +13,8 @@ import numpy as np
 from PIL import Image
 
 def inputImage():           # for taking input
-    first_image = 'input/camera1/picture063.jpg'
-    second_image = 'input/camera2/picture062.jpg'
+    first_image = 'input/camera1/picture064.jpg'
+    second_image = 'input/camera2/picture065.jpg'
     '''
     first_image = 'C:\Users\hp pc\Documents\pythonFiles\open\picture048.jpg'
     second_image = 'C:\Users\hp pc\Documents\pythonFiles\open\picture049.jpg'
