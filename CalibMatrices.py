@@ -13,8 +13,8 @@ import numpy as np
 from PIL import Image
 
 def inputImage():           # for taking input
-    first_image = '.\input\camera1\picture064.jpg'
-    second_image = '.\input\camera2\picture065.jpg'
+    first_image = 'input/camera1/picture063.jpg'
+    second_image = 'input/camera2/picture062.jpg'
     '''
     first_image = 'C:\Users\hp pc\Documents\pythonFiles\open\picture048.jpg'
     second_image = 'C:\Users\hp pc\Documents\pythonFiles\open\picture049.jpg'
@@ -31,19 +31,14 @@ def endProg():              # for testing
 
 def d(string):              # debugging
     print string
-    
-def print_coordinate(event,x,y,flags,param):    # printing coordinate on image
-    font = cv2.FONT_HERSHEY_SIMPLEX
-    points = np.float32()
-    if event == cv2.EVENT_FLAG_LBUTTON:
-        cv2.putText(dst,str(x) + ' ' + str(y),(x-20,y-20),font,0.3,(0,0,255),1,cv2.LINE_AA)
-		
+
 def store_point_coordinate(event,x,y,flags,param):  # stores values in point
     font = cv2.FONT_HERSHEY_SIMPLEX
     if event == cv2.EVENT_FLAG_LBUTTON and len(pts1) < 4:
         cv2.circle(img,(x,y), 2, (255,255,255), -1)
         cv2.putText(img,str(x) + ' ' + str(y),(x-20,y-20),font,0.3,(255,255,255),1,cv2.LINE_AA)
         pts1.append([x,y])
+        print x, y
 		
 def store_point_coordinate2(event,x,y,flags,param):
     font = cv2.FONT_HERSHEY_SIMPLEX
@@ -51,6 +46,7 @@ def store_point_coordinate2(event,x,y,flags,param):
         cv2.circle(img2,(x,y), 2, (255,255,255), -1)
         cv2.putText(img2,str(x) + ' ' + str(y),(x-20,y-20),font,0.3,(255,255,255),1,cv2.LINE_AA)
         pts2.append([x,y])
+        print x, y
 
 def resize(img, factor):                # resizing the image
     rows,cols,ch = img.shape
@@ -126,6 +122,7 @@ def main(img,img2,pts1,pts2):
     first_image, second_image = inputImage()    # get input
 
     img = cv2.imread(first_image)       # reading image
+    img = cv2.resize(img, (0,0), fx = 0.5, fy = 0.5)
     rows,cols,ch = img.shape
     print img.shape
 
@@ -141,6 +138,7 @@ def main(img,img2,pts1,pts2):
 
 
     img2 = cv2.imread(second_image)     # doing same thing for other image from other camera
+    img2 = cv2.resize(img2, (0, 0), fx=0.5, fy=0.5)
     cv2.namedWindow('img2')
     cv2.setMouseCallback('img2',store_point_coordinate2)
 

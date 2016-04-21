@@ -12,8 +12,8 @@ from PIL import Image
 
 def inputImage():           # for taking input
     
-    first_image = '.\input\camera1\picture059.jpg'
-    second_image = '.\input\camera2\picture058.jpg'
+    first_image = 'input/camera1/picture060.jpg'
+    second_image = 'input/camera2/picture061.jpg'
     '''
     first_image = 'C:\Users\hp pc\Documents\pythonFiles\open\Amol\img1.jpg'
     second_image = 'C:\Users\hp pc\Documents\pythonFiles\open\Amol\img2.jpg'
@@ -99,8 +99,11 @@ def main():
     first_image, second_image = inputImage()    # get input
 
     img = cv2.imread(first_image)
+    print img.shape
+    img = cv2.resize(img, (0,0), fx = 0.5, fy = 0.5)
     img2 = cv2.imread(second_image)
-
+    print img2.shape
+    img2 = cv2.resize(img2, (0, 0), fx=0.5, fy=0.5)
     rows,cols,ch = img.shape
     print img.shape
     print img2.shape
