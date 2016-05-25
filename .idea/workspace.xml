@@ -2,7 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="114ca8a8-392a-4b70-9b5a-0e8de1672cec" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CalibMatrices.py" afterPath="$PROJECT_DIR$/CalibMatrices.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../A-star-planning/create_spline.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../A-star-planning/Clearance/1.jpg" afterPath="$PROJECT_DIR$/../A-star-planning/Clearance/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../A-star-planning/Clearance/2.jpg" afterPath="$PROJECT_DIR$/../A-star-planning/Clearance/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../A-star-planning/beforeplanningwithclearance/1.jpg" afterPath="$PROJECT_DIR$/../A-star-planning/beforeplanningwithclearance/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../A-star-planning/beforeplanningwithclearance/2.jpg" afterPath="$PROJECT_DIR$/../A-star-planning/beforeplanningwithclearance/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../A-star-planning/beforeplanningwithoutclearance/1.jpg" afterPath="$PROJECT_DIR$/../A-star-planning/beforeplanningwithoutclearance/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../A-star-planning/beforeplanningwithoutclearance/2.jpg" afterPath="$PROJECT_DIR$/../A-star-planning/beforeplanningwithoutclearance/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../A-star-planning/output/1.jpg" afterPath="$PROJECT_DIR$/../A-star-planning/output/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../A-star-planning/output/2.jpg" afterPath="$PROJECT_DIR$/../A-star-planning/output/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../A-star-planning/output/3.jpg" afterPath="$PROJECT_DIR$/../A-star-planning/output/3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/FinalImage.jpg" afterPath="$PROJECT_DIR$/output/FinalImage.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/FinalImage4.jpg" afterPath="$PROJECT_DIR$/output/FinalImage4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/calibData/perspective_Second_First.npy" afterPath="$PROJECT_DIR$/output/calibData/perspective_Second_First.npy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/calibData/perspective_overhead.npy" afterPath="$PROJECT_DIR$/output/calibData/perspective_overhead.npy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/output33.jpg" afterPath="$PROJECT_DIR$/output/output33.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../A-star-planning/A-star-feasibility-clearance.py" afterPath="$PROJECT_DIR$/../A-star-planning/A-star-feasibility-clearance.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../A-star-planning/A-star.py" afterPath="$PROJECT_DIR$/../A-star-planning/A-star.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Hybrid-Artificial-Potential-Field-A-star-Planning/.idea/Hybrid-Artificial-Potential-Field-A-star-Planning.iml" afterPath="$PROJECT_DIR$/../Hybrid-Artificial-Potential-Field-A-star-Planning/.idea/Hybrid-Artificial-Potential-Field-A-star-Planning.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Vision_Based_Motion_Planning_of_RoundBots.iml" afterPath="$PROJECT_DIR$/.idea/Vision_Based_Motion_Planning_of_RoundBots.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LiveRunningOverhead.py" afterPath="$PROJECT_DIR$/LiveRunningOverhead.py" />
     </list>
     <ignored path="Vision_Based_Motion_Planning_of_RoundBots.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -22,52 +44,35 @@
     <favorites_list name="Vision_Based_Motion_Planning_of_RoundBots" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Lpicture072.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/input/Camera1/Lpicture072.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Rpicture071.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/input/Camera2/Rpicture071.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CalibMatrices.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CalibMatrices.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-              <folding>
-                <element signature="e#477#487#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Artificial-Potential-Field" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/CalibMatrices.py" />
+        <option value="$PROJECT_DIR$/LiveRunningOverhead.py" />
+        <option value="$PROJECT_DIR$/../A-star-planning/A-star.py" />
+        <option value="$PROJECT_DIR$/../A-star-planning/create_spline.py" />
+        <option value="$PROJECT_DIR$/../A-star-planning/A-star-feasibility-clearance.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="65" />
-    <option name="y" value="70" />
-    <option name="width" value="1358" />
-    <option name="height" value="743" />
+    <option name="y" value="24" />
+    <option name="width" value="1366" />
+    <option name="height" value="744" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -92,8 +97,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -108,65 +111,22 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Vision_Based_Motion_Planning_of_RoundBots" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Vision_Based_Motion_Planning_of_RoundBots" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Vision_Based_Motion_Planning_of_RoundBots" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="input" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Vision_Based_Motion_Planning_of_RoundBots" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Vision_Based_Motion_Planning_of_RoundBots" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="input" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Camera2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Vision_Based_Motion_Planning_of_RoundBots" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Vision_Based_Motion_Planning_of_RoundBots" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="input" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Camera1" />
+              <option name="myItemId" value="Artificial-Potential-Field" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
-  <component name="RunManager" selected="Python.CalibMatrices">
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Hybrid-Artificial-Potential-Field-A-star-Planning" />
+  </component>
+  <component name="RunManager" selected="Python.A-star-feasibility-clearance">
     <configuration default="false" name="CalibMatrices" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -180,6 +140,57 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Vision_Based_Motion_Planning_of_RoundBots" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CalibMatrices.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="LiveRunningOverhead" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Vision_Based_Motion_Planning_of_RoundBots" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LiveRunningOverhead.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="A-star-feasibility-clearance" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../A-star-planning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="A-star-planning" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../A-star-planning/A-star-feasibility-clearance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="create_spline" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../A-star-planning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="A-star-planning" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../A-star-planning/create_spline.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -318,12 +329,18 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python.CalibMatrices" />
+      <item index="1" class="java.lang.String" itemvalue="Python.LiveRunningOverhead" />
+      <item index="2" class="java.lang.String" itemvalue="Python.A-star-feasibility-clearance" />
+      <item index="3" class="java.lang.String" itemvalue="Python.create_spline" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.CalibMatrices" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.A-star-feasibility-clearance" />
+        <item index="1" class="java.lang.String" itemvalue="Python.create_spline" />
+        <item index="2" class="java.lang.String" itemvalue="Python.LiveRunningOverhead" />
+        <item index="3" class="java.lang.String" itemvalue="Python.CalibMatrices" />
       </list>
     </recent_temporary>
   </component>
@@ -344,15 +361,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="70" width="1358" height="743" extended-state="0" />
+    <frame x="0" y="24" width="1366" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25147492" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2510981" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34418604" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34370372" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -382,12 +399,86 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/input/Camera1/picture067.jpg">
+    <entry file="file://$PROJECT_DIR$/CalibMatrices.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+          <folding>
+            <element signature="e#477#487#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiveRunningOverhead.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input/Camera1/Lpicture070.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/input/Camera1/Lpicture067.jpg">
+    <entry file="file://$PROJECT_DIR$/input/Camera2/Rpicture069.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CalibMatrices.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+          <folding>
+            <element signature="e#477#487#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiveRunningOverhead.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input/Camera1/Lpicture070.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input/Camera2/Rpicture069.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CalibMatrices.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+          <folding>
+            <element signature="e#477#487#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiveRunningOverhead.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input/Camera1/Lpicture070.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input/Camera2/Rpicture069.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -404,10 +495,105 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CalibMatrices.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#477#487#0" expanded="true" />
+            <element signature="e#477#487#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input/Camera1/picture067.jpg" />
+    <entry file="file://$PROJECT_DIR$/input/Camera1/Lpicture067.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input/Camera1/Lpicture072.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input/Camera2/Rpicture071.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input/camera1/picture063.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiveRunningOverhead.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CalibMatrices.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+          <folding>
+            <element signature="e#477#487#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input/Camera1/Lpicture070.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input/Camera2/Rpicture069.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../A-star-planning/A-star.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="9" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../A-star-planning/create_spline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../A-star-planning/a.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="823" column="6" selection-start-line="823" selection-start-column="6" selection-end-line="823" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../A-star-planning/A-star-feasibility-clearance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="212" column="0" selection-start-line="212" selection-start-column="0" selection-end-line="212" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Artificial-Potential-Field/Aritifcial-potential-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>

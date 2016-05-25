@@ -12,8 +12,8 @@ from PIL import Image
 
 def inputImage():           # for taking input
     
-    first_image = 'input/camera1/sample1.jpg'
-    second_image = 'input/camera2/sample1.jpg'
+    first_image = 'input/Camera1/Lpicture070.jpg'
+    second_image = 'input/Camera2/Rpicture069.jpg'
     '''
     first_image = 'C:\Users\hp pc\Documents\pythonFiles\open\Amol\img1.jpg'
     second_image = 'C:\Users\hp pc\Documents\pythonFiles\open\Amol\img2.jpg'
